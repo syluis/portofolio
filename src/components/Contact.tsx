@@ -53,9 +53,9 @@ export const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'risfandhiani@example.com',
+      value: 'risfandhiani@gmail.com',
       color: 'text-blue-400',
-      link: 'mailto:risfandhiani@example.com'
+      link: 'mailto:risfandhiani@gmail.com'
     },
     {
       icon: Globe,
