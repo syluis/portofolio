@@ -18,7 +18,7 @@ export const Projects = () => {
     {
       title: 'Network Monitoring Dashboard',
       description: 'Built a comprehensive network monitoring solution with real-time metrics, alerting system, and automated incident response using modern observability tools.',
-      technologies: ['Prometheus', 'Grafana', 'ELK Stack', 'Python', 'SNMP', 'AlertManager'],
+      technologies: ['Prometheus', 'Grafana', 'Python', 'AlertManager'],
       icon: Network,
       color: 'text-green-400',
       github: 'https://github.com/X5851X',
@@ -28,7 +28,7 @@ export const Projects = () => {
     {
       title: 'Data Visualization Suite',
       description: 'Created interactive dashboards and visualizations for business intelligence, helping teams make data-driven decisions with clear, actionable insights.',
-      technologies: ['Tableau', 'Python', 'SQL', 'Power BI', 'D3.js', 'React'],
+      technologies: ['Tableau', 'Python', 'SQL', 'React'],
       icon: BarChart3,
       color: 'text-purple-400',
       github: '#',
@@ -38,7 +38,7 @@ export const Projects = () => {
     {
       title: 'Automated Deployment Pipeline',
       description: 'Designed and implemented a fully automated CI/CD pipeline with testing, security scanning, and blue-green deployment strategies.',
-      technologies: ['GitLab CI/CD', 'Docker', 'Ansible', 'SonarQube', 'Vault', 'Nginx'],
+      technologies: ['GitLab CI/CD', 'Docker', 'Ansible', 'Nginx'],
       icon: Code,
       color: 'text-orange-400',
       github: 'https://github.com/X5851X',

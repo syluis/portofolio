@@ -33,11 +33,6 @@ export const Footer = () => {
               DevOps Engineer & Cloud Specialist passionate about building 
               scalable systems and automating complex processes.
             </p>
-            <div className="flex items-center gap-2 text-sm text-muted-foreground">
-              <span>Made with</span>
-              <Heart className="h-4 w-4 text-red-400 fill-current" />
-              <span>& baby blue gradients</span>
-            </div>
           </div>
 
           {/* Quick Links */}

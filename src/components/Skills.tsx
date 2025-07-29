@@ -54,10 +54,8 @@ export const Skills = () => {
   ];
 
   const certifications = [
-    'AWS Solutions Architect',
-    'Cisco CCNA',
-    'CompTIA Network+',
-    'Kubernetes Administrator'
+    'Associate Cloud Engineer',
+    'Alibaba Cloud Certified Associate'
   ];
 
   return (
@@ -140,7 +138,6 @@ export const Skills = () => {
                   <div className="flex flex-wrap gap-2">
                     <Badge variant="outline">Git</Badge>
                     <Badge variant="outline">GitHub</Badge>
-                    <Badge variant="outline">GitLab</Badge>
                   </div>
                 </div>
                 
@@ -148,7 +145,6 @@ export const Skills = () => {
                   <h4 className="text-sm font-semibold text-muted-foreground mb-2">Collaboration</h4>
                   <div className="flex flex-wrap gap-2">
                     <Badge variant="outline">Jira</Badge>
-                    <Badge variant="outline">Confluence</Badge>
                     <Badge variant="outline">Slack</Badge>
                     <Badge variant="outline">Teams</Badge>
                   </div>
@@ -158,8 +154,6 @@ export const Skills = () => {
                   <h4 className="text-sm font-semibold text-muted-foreground mb-2">Data Visualization</h4>
                   <div className="flex flex-wrap gap-2">
                     <Badge variant="outline">Tableau</Badge>
-                    <Badge variant="outline">Power BI</Badge>
-                    <Badge variant="outline">Grafana</Badge>
                   </div>
                 </div>
               </div>

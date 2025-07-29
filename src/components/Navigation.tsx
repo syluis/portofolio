@@ -25,8 +25,7 @@ export const Navigation = () => {
 
   const socialLinks = [
     { icon: Github, href: 'https://github.com/X5851X', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://www.linkedin.com/in/risfandhiani/', label: 'LinkedIn' },
-    { icon: FileText, href: 'https://public.tableau.com/app/profile/risfandhiani.triara.putri/vizzes', label: 'Tableau' }
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/risfandhiani/', label: 'LinkedIn' }
   ];
 
   return (
